@@ -1,4 +1,4 @@
-# Example Code for Blog
+# Blog Code Examples
 
 This repository contains example code referenced in my blog posts at [https://medium.com/@johnryancottam](https://medium.com/@johnryancottam).
 
