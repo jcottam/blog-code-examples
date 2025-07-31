@@ -1,7 +1,3 @@
-## Welcome
-
-Blog hosted on Medium - [https://medium.com/@johnryancottam](https://medium.com/@johnryancottam)
-
 # Example Code for Blog
 
 This repository contains example code referenced in my blog posts at [https://medium.com/@johnryancottam](https://medium.com/@johnryancottam).
