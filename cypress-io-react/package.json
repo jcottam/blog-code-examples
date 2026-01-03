@@ -16,6 +16,6 @@
     "cypress:open": "cypress open"
   },
   "devDependencies": {
-    "cypress": "^3.8.3"
+    "cypress": "^15.8.1"
   }
 }
