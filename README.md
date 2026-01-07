@@ -95,8 +95,6 @@ All projects were recently updated (January 2026) with major dependency upgrades
 - **Latest Express** versions with security patches
 - **Modern ESLint & Prettier** configurations
 
-See [DEPENDENCY_UPDATES.md](./DEPENDENCY_UPDATES.md) for detailed information about the updates.
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you find bugs, have suggestions, or want to improve the examples:
