@@ -12,20 +12,20 @@
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
-    "cross-env": "^5.2.0",
-    "express": "^4.16.4",
-    "@nuxtjs/axios": "^5.3.6"
+    "nuxt": "^2.18.1",
+    "cross-env": "^7.0.3",
+    "express": "^4.21.2",
+    "@nuxtjs/axios": "^5.13.6"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9",
-    "@nuxtjs/eslint-config": "^1.0.1",
-    "@nuxtjs/eslint-module": "^1.0.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^6.1.0",
-    "eslint-plugin-nuxt": ">=0.4.2",
-    "eslint-config-prettier": "^4.1.0",
-    "eslint-plugin-prettier": "^3.0.1",
-    "prettier": "^1.16.4"
+    "nodemon": "^3.1.9",
+    "@nuxtjs/eslint-config": "^2.0.2",
+    "@nuxtjs/eslint-module": "^1.2.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-nuxt": "^0.5.2",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-prettier": "^3.4.1",
+    "prettier": "^2.8.8"
   }
 }

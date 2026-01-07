@@ -30,8 +30,8 @@ export default {
       return axios.get('http://localhost:3000/api/next-movie').then((res) => {
         this.movie = res.data
       })
-    }
-  }
+    },
+  },
 }
 </script>
 
